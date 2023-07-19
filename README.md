@@ -2,7 +2,7 @@
 
 🌱 I'm a physicist who has always been in love with programming and computers.
 
-🔭 It started as a hobby, but then I decided to take it more seriously. For my thesis, I wanted to work on something that combines both physics and computer science, and I accomplished that goal. 
+🔭 It started as a hobby, but then I decided to take it more seriously. For my thesis, I wanted to work on something that combines both physics and computer science.
 
 ⚡Now I'm looking forward to working in the industry.
 
