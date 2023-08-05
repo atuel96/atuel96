@@ -1,11 +1,10 @@
 ### Hi there 👋
 
-🌱 I'm a physicist who has always been in love with programming and computers.
+🌱 My name is Atuel, I'm a physicist who has always been in love with programming and computers.
 
-🔭 It started as a hobby, but then I decided to take it more seriously. For my thesis, I wanted to work on something that combines both physics and computer science.
+🔭 It started as a hobby, but then I decided to take it more seriously. I took some computer science courses online and at my university, and I truly enjoyed them.
 
-⚡Now I'm looking forward to working in the industry.
-
+⚡ Now, I'm looking forward to starting a PhD that utilizes data science to conduct research in physics. I am eager to continue learning and applying my current knowledge in the field simultaneously.
 
 <!--
 
